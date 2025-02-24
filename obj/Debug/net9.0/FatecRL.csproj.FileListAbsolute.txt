@@ -1,0 +1,15 @@
+C:\Users\lab53\Documents\ALG\FatecRL\bin\Debug\net9.0\FatecRL.exe
+C:\Users\lab53\Documents\ALG\FatecRL\bin\Debug\net9.0\FatecRL.deps.json
+C:\Users\lab53\Documents\ALG\FatecRL\bin\Debug\net9.0\FatecRL.runtimeconfig.json
+C:\Users\lab53\Documents\ALG\FatecRL\bin\Debug\net9.0\FatecRL.dll
+C:\Users\lab53\Documents\ALG\FatecRL\bin\Debug\net9.0\FatecRL.pdb
+C:\Users\lab53\Documents\ALG\FatecRL\obj\Debug\net9.0\FatecRL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab53\Documents\ALG\FatecRL\obj\Debug\net9.0\FatecRL.AssemblyInfoInputs.cache
+C:\Users\lab53\Documents\ALG\FatecRL\obj\Debug\net9.0\FatecRL.AssemblyInfo.cs
+C:\Users\lab53\Documents\ALG\FatecRL\obj\Debug\net9.0\FatecRL.csproj.CoreCompileInputs.cache
+C:\Users\lab53\Documents\ALG\FatecRL\obj\Debug\net9.0\FatecRL.sourcelink.json
+C:\Users\lab53\Documents\ALG\FatecRL\obj\Debug\net9.0\FatecRL.dll
+C:\Users\lab53\Documents\ALG\FatecRL\obj\Debug\net9.0\refint\FatecRL.dll
+C:\Users\lab53\Documents\ALG\FatecRL\obj\Debug\net9.0\FatecRL.pdb
+C:\Users\lab53\Documents\ALG\FatecRL\obj\Debug\net9.0\FatecRL.genruntimeconfig.cache
+C:\Users\lab53\Documents\ALG\FatecRL\obj\Debug\net9.0\ref\FatecRL.dll
