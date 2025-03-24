@@ -8,11 +8,17 @@
     "net9.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\RobertoPC\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\lab53\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+>>>>>>> a0f3fd77f3382e53229c591f66558c6524f4ea2a
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\RobertoPC\\Desktop\\FatecRL\\FatecRL.csproj",
       "projectName": "FatecRL",
       "projectPath": "C:\\Users\\RobertoPC\\Desktop\\FatecRL\\FatecRL.csproj",
@@ -21,11 +27,30 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RobertoPC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "C:\\Users\\lab53\\Documents\\ALG\\FatecRL\\FatecRL.csproj",
+      "projectName": "FatecRL",
+      "projectPath": "C:\\Users\\lab53\\Documents\\ALG\\FatecRL\\FatecRL.csproj",
+      "packagesPath": "C:\\Users\\lab53\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lab53\\Documents\\ALG\\FatecRL\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\lab53\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> a0f3fd77f3382e53229c591f66558c6524f4ea2a
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+<<<<<<< HEAD
+=======
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+>>>>>>> a0f3fd77f3382e53229c591f66558c6524f4ea2a
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -42,7 +67,11 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
+<<<<<<< HEAD
         "auditMode": "direct"
+=======
+        "auditMode": "all"
+>>>>>>> a0f3fd77f3382e53229c591f66558c6524f4ea2a
       },
       "SdkAnalysisLevel": "9.0.200"
     },
@@ -65,7 +94,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.24575.35/PortableRuntimeIdentifierGraph.json"
+>>>>>>> a0f3fd77f3382e53229c591f66558c6524f4ea2a
       }
     }
   }

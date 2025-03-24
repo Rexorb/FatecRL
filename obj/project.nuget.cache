@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "uqxLnhzkyqI=",
   "success": true,
   "projectFilePath": "C:\\Users\\RobertoPC\\Desktop\\FatecRL\\FatecRL.csproj",
+=======
+  "dgSpecHash": "BmGRawia2kM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab53\\Documents\\ALG\\FatecRL\\FatecRL.csproj",
+>>>>>>> a0f3fd77f3382e53229c591f66558c6524f4ea2a
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FatecRL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d4ea273368e45cedf4594e3d1d22f2914fdcf25")]
+>>>>>>> a0f3fd77f3382e53229c591f66558c6524f4ea2a
 [assembly: System.Reflection.AssemblyProductAttribute("FatecRL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FatecRL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
